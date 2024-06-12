@@ -7,5 +7,5 @@
 nombre = input("introduce tu nombre: \n")
 
 print("nombre en minuscula", nombre.lower())
-print("nombre en minuscula", nombre.upper())
-print("nombre en minuscula", nombre.capitalize())
+print("nombre en mayuscula", nombre.upper())
+print("nombre en mayuscula pero solo el primero", nombre.capitalize())
